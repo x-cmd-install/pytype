@@ -5,7 +5,7 @@ about:
   head: f411a8b
   archived: true
   latestVersion: ""
-  collectedAt: 2026-09-08T01:38:47Z
+  collectedAt: 2026-09-08T04:27:52Z
 timeline:
   created: 2015-03-18
   lastCommit: 2026-01-23
@@ -84,7 +84,7 @@ total:
   commit: 6969
 ---
 path: /home/runner/.x-repo/github.com/google/pytype
-collectedAt: 2026-09-08T01:38:56Z
+collectedAt: 2026-09-08T04:28:00Z
 loc:
   Python:
     code: 140647
