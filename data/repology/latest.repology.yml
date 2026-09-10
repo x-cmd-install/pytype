@@ -1,0 +1,38 @@
+- repo: aur
+  srcname: pytype
+  binname: pytype
+  visiblename: pytype
+  version: 2024.10.11
+  origversion: 2024.10.11-1
+  status: newest
+  summary: A static type analyzer for Python code
+  maintainers:
+    - jaxvanyang@aur
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: aur
+  srcname: pytype-git
+  binname: pytype-git
+  visiblename: pytype-git
+  version: 2024.10.11.r71.g762b86d
+  origversion: 2024.10.11.r71.g762b86d-1
+  status: rolling
+  summary: Static type analyzer for Python code
+  maintainers:
+    - jaxvanyang@aur
+  licenses:
+    - Apache-2.0
+    - MIT
+- repo: freebsd
+  srcname: devel/pytype
+  binname: pytype-py312
+  visiblename: devel/pytype
+  version: 2024.10.11
+  origversion: 2024.10.11_3
+  status: newest
+  summary: Python type inferencer
+  maintainers:
+    - sunpoet@freebsd.org
+  categories:
+    - devel
