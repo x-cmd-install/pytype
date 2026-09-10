@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:32:58Z
+  collectedAt: 2026-09-10T16:06:03Z
 timeline:
   created: 2015-03-18
   lastCommit: 2026-01-23
@@ -88,7 +88,7 @@ total:
   commit: 6969
 ---
 path: /home/runner/.x-repo/github.com/google/pytype
-collectedAt: 2026-09-10T04:33:07Z
+collectedAt: 2026-09-10T16:06:12Z
 loc:
   Python:
     code: 140647
