@@ -33,8 +33,8 @@ Overall score: **4.4 / 10**
 Lowest-scoring checks:
 
 - **Code-Review** (1/10) — Found 3/30 approved changesets -- score normalized to 1
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Maintained** (0/10) — project is archived
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -44,7 +44,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 5,031 · **Forks**: 290 · **Open issues**: 746 · **Contributors**: 98
+- **Stars**: 5,032 · **Forks**: 290 · **Open issues**: 746 · **Contributors**: 98
 
 ## Totals (cumulative)
 
@@ -54,12 +54,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-30 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-31 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-01 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-02 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-04 | 0 | 11 | 4 | 0 | 0 | 12 |
-| last720d | 2024-10-09 | 0 | 68 | 4 | 36 | 1 | 91 |
+| 30d | 2026-08-31 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-01 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-02 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-03 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-05 | 0 | 11 | 4 | 0 | 0 | 12 |
+| last720d | 2024-10-10 | 0 | 66 | 4 | 36 | 1 | 90 |
 
 ## Improve this data
 
@@ -70,4 +70,4 @@ Install metadata for pytype lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260929.yml` · 2026-09-29T05:36:57Z._
+_Snapshot: `data/card/260930.yml` · 2026-09-30T05:28:25Z._
