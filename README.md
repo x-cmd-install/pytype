@@ -28,13 +28,13 @@ Total: **150,476** lines of code across **592** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **4.4 / 10**
+Overall score: **4.3 / 10**
 
 Lowest-scoring checks:
 
 - **Code-Review** (1/10) — Found 3/30 approved changesets -- score normalized to 1
-- **Maintained** (0/10) — project is archived
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Maintained** (0/10) — project is archived
 
 ## Source
 
@@ -54,12 +54,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-07 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-07-08 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-04-09 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-10-11 | 0 | 11 | 4 | 0 | 0 | 12 |
-| last720d | 2024-10-16 | 0 | 64 | 4 | 34 | 1 | 84 |
+| 30d | 2026-09-07 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-08-08 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-07-09 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-04-10 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-10-12 | 0 | 11 | 4 | 0 | 0 | 12 |
+| last720d | 2024-10-17 | 0 | 64 | 4 | 34 | 1 | 84 |
 
 ## Improve this data
 
@@ -70,4 +70,4 @@ Install metadata for pytype lives in the [x-cmd/install](https://github.com/x-cm
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T06:14:42Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T05:47:34Z._
